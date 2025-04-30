@@ -7,7 +7,7 @@
 ---
 ## 🐧 2 - Ambiente Linux e Discord 
         Utilizei em meu projeto uma Máquina Virtual, por meio do aplicativo Oracle VirtualBox. Criei a máquina com os requisitos mínimos para a utilização do Debian.
-![Primeiro print](img/imagem.jpg)
+![Primeiro print](/img/imagem.jpg)
 
        Depois disso, criei um servidor no Discord e depois gerei a URL do webhook.
 ![Segundo print](/img/discord.jpg)
